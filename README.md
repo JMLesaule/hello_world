@@ -1,2 +1,3 @@
 # hello_world
-test
+
+c'est un test pour essayer de maîtriser mieux git. 
