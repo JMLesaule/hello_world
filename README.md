@@ -1,3 +1,1 @@
-# hello_world
-
-c'est un test pour essayer de maîtriser mieux git. 
+Pas le choix que d'utiliser Vim 
